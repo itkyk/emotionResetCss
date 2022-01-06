@@ -1,0 +1,29 @@
+{
+  "name": "@itkyk/emotion-reset-style",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "init": "tsc --init",
+    "start": "tsc -w",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itkyk/emotionResetCss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itkyk/emotionResetCss/issues"
+  },
+  "homepage": "https://github.com/itkyk/emotionResetCss#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1"
+  }
+}

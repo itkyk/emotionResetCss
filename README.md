@@ -1,1 +1,1 @@
-# Reset Css works by emotion
+# Reset Css works by @emotion/react
